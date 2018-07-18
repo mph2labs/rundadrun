@@ -1,2 +1,2 @@
 # rundadrun
-A proof of concept open source multi - platform game written in godot
+A proof of concept open source cross-platform game written in godot
